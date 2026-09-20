@@ -14,6 +14,7 @@
     + recursive case
     + well-defined recurrence
     + ill-defined recurrence
+
 + **Algorithmic recurrences**
     + Recurrences that describe the running times of divide-and-conquer algorithms.
     + A recurrence $T(n)$ is algorithmic if, for every sufficiently large threshold constant $n_0 > 0$, the following two properties hold:
@@ -47,9 +48,12 @@
     + involves calculus, it can be used to attack more complicated recurrences than those addressed by the master method
 
 ## 4.1 Multiplying Square Matrices
++ details of the algorithm
 ## 4.2 Strassen's Algorithm
-## 4.3 Substitution method
-## 4.4 Recursion tree method
-## 4.5 Master method
-## 4.6 proof of master theorem
-## 4.7 Akra-Bazzi recurrences
++ details of the algorithm
+## 4.3 Substitution Method
++ examples
+## 4.4 Recursion Tree Method
+## 4.5 Master Method
+## 4.6 Proof of Master Theorem
+## 4.7 Akra-Bazzi Recurrences
