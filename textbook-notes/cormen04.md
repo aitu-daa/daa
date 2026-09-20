@@ -1,4 +1,4 @@
-# 04 Devide-and-Conquer
+# 04 Divide-and-Conquer
 
 + The divide-and-conquer method is a powerful strategy for designing asymptotically efficient algorithms.
 + For divide-and-conquer, you solve a given problem (instance) recursively.
